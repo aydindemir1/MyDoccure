@@ -1,3 +1,8 @@
 <Solution>
+  <Folder Name="/Requirements/" />
+  <Folder Name="/Requirements/JsonData/">
+    <File Path="DoctorExamples.txt" />
+  </Folder>
   <Project Path="Microservices/Doccure.BranchService/Doccure.BranchService.csproj" />
+  <Project Path="Microservices/Doccure.DoctorService/Doccure.DoctorService.csproj" Id="5386536f-9259-46bd-8c4e-891a2b1e0428" />
 </Solution>

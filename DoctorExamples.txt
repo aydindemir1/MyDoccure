@@ -1,0 +1,696 @@
+{
+  "name": "Ahmet",
+  "surname": "Y�lmaz",
+  "branchId": "67f1a2b3c4d5e6f789012345",
+  "email": "ahmet.yilmaz@doccure.com",
+  "phone": "+905551112233",
+  "imageUrl": "https://randomuser.me/api/portraits/men/45.jpg",
+  "about": "Kardiyoloji alan�nda 12 y�ll�k deneyime sahip olan Dr. Ahmet Y�lmaz, �zellikle kalp ritim bozukluklar� ve hipertansiyon �zerine uzmanla�m��t�r.",
+  "experienceYear": 12,
+  "pricePerHour": 1500,
+  "educations": [
+    {
+      "schoolName": "�stanbul �niversitesi T�p Fak�ltesi",
+      "degree": "T�p Doktoru",
+      "year": "2006-2012"
+    },
+    {
+      "schoolName": "Hacettepe �niversitesi",
+      "degree": "Kardiyoloji Uzmanl���",
+      "year": "2013-2017"
+    }
+  ],
+  "experiences": [
+    {
+      "clinicName": "Ac�badem Hastanesi",
+      "yearRange": "2017-2020"
+    },
+    {
+      "clinicName": "Memorial Hastanesi",
+      "yearRange": "2020-2024"
+    }
+  ],
+  "awards": [
+    {
+      "title": "En Ba�ar�l� Kardiyolog",
+      "year": "2021",
+      "description": "T�rkiye Kardiyoloji Derne�i taraf�ndan verilmi�tir."
+    },
+    {
+      "title": "Uluslararas� T�p Ba�ar� �d�l�",
+      "year": "2023",
+      "description": "Avrupa Kardiyoloji Kongresi kapsam�nda verilmi�tir."
+    }
+  ],
+  "services": [
+    "Kalp Muayenesi",
+    "EKG",
+    "Efor Testi",
+    "Holter Takibi"
+  ],
+  "specializations": [
+    "Kardiyoloji",
+    "Hipertansiyon",
+    "Kalp Ritmi Bozukluklar�"
+  ]
+}
+
+---------------------------------------------------------------------------
+
+{
+  "name": "Mehmet",
+  "surname": "Demir",
+  "branchId": "67f1a2b3c4d5e6f789012345",
+  "email": "mehmet.demir@doccure.com",
+  "phone": "+905331234567",
+  "imageUrl": "https://randomuser.me/api/portraits/men/12.jpg",
+  "about": "Ortopedi ve travmatoloji alan�nda 10 y�ll�k deneyime sahip olan Dr. Mehmet Demir, eklem rahats�zl�klar�, spor yaralanmalar� ve k�r�k tedavileri �zerine uzmanla�m��t�r.",
+  "experienceYear": 10,
+  "pricePerHour": 1300,
+  "educations": [
+    {
+      "schoolName": "Ankara �niversitesi T�p Fak�ltesi",
+      "degree": "T�p Doktoru",
+      "year": "2007-2013"
+    },
+    {
+      "schoolName": "Gazi �niversitesi",
+      "degree": "Ortopedi ve Travmatoloji Uzmanl���",
+      "year": "2014-2018"
+    }
+  ],
+  "experiences": [
+    {
+      "clinicName": "Medicana Hastanesi",
+      "yearRange": "2018-2021"
+    },
+    {
+      "clinicName": "Florence Nightingale Hastanesi",
+      "yearRange": "2021-2025"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Ba�ar�l� Ortopedi Uzman�",
+      "year": "2022",
+      "description": "Ortopedi alan�ndaki ba�ar�l� �al��malar� nedeniyle verilmi�tir."
+    }
+  ],
+  "services": [
+    "Ortopedi Muayenesi",
+    "K�r�k Tedavisi",
+    "Eklem A�r�s� Tedavisi",
+    "Spor Yaralanmalar�"
+  ],
+  "specializations": [
+    "Ortopedi",
+    "Travmatoloji",
+    "Spor Yaralanmalar�"
+  ]
+}
+
+------------------------------------------------------------------
+
+{
+  "name": "Mehmet",
+  "surname": "Demir",
+  "branchId": "67f1a2b3c4d5e6f789012345",
+  "email": "mehmet.demir@doccure.com",
+  "phone": "+905331234567",
+  "imageUrl": "https://randomuser.me/api/portraits/men/12.jpg",
+  "about": "Ortopedi ve travmatoloji alan�nda 10 y�ll�k deneyime sahip olan Dr. Mehmet Demir, eklem rahats�zl�klar� ve spor yaralanmalar� �zerine uzmanla�m��t�r.",
+  "experienceYear": 10,
+  "pricePerHour": 1300,
+  "educations": [
+    {
+      "schoolName": "Ankara �niversitesi T�p Fak�ltesi",
+      "degree": "T�p Doktoru",
+      "year": "2007-2013"
+    },
+    {
+      "schoolName": "Gazi �niversitesi",
+      "degree": "Ortopedi ve Travmatoloji Uzmanl���",
+      "year": "2014-2018"
+    }
+  ],
+  "experiences": [
+    {
+      "clinicName": "Medicana Hastanesi",
+      "yearRange": "2018-2021"
+    },
+    {
+      "clinicName": "Florence Nightingale Hastanesi",
+      "yearRange": "2021-2025"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Ba�ar�l� Ortopedi Uzman�",
+      "year": "2022",
+      "description": "Ortopedi alan�ndaki ba�ar�l� �al��malar� nedeniyle verilmi�tir."
+    }
+  ],
+  "locations": [
+    {
+      "clinicName": "Medicana Ata�ehir",
+      "address": "Ata�ehir Bulvar� No:45",
+      "city": "�stanbul",
+      "price": 1300,
+      "description": "Modern ekipmanlarla ortopedi hizmeti sunulmaktad�r.",
+      "businessHours": "09:00 - 18:00"
+    }
+  ],
+  "services": [
+    "Ortopedi Muayenesi",
+    "K�r�k Tedavisi",
+    "Eklem A�r�s� Tedavisi",
+    "Spor Yaralanmalar�"
+  ],
+  "specializations": [
+    "Ortopedi",
+    "Travmatoloji",
+    "Spor Yaralanmalar�"
+  ]
+}
+
+--------------------------------------------------------------------
+
+{
+  "name": "Ay�e",
+  "surname": "�elik",
+  "branchId": "67f1a2b3c4d5e6f789012345",
+  "email": "ayse.celik@doccure.com",
+  "phone": "+905447778899",
+  "imageUrl": "https://randomuser.me/api/portraits/women/28.jpg",
+  "about": "�ocuk sa�l��� ve hastal�klar� alan�nda 8 y�ll�k deneyime sahip olan Dr. Ay�e �elik, yenido�an takibi, �ocuk enfeksiyonlar� ve geli�im takibi �zerine uzmanla�m��t�r.",
+  "experienceYear": 8,
+  "pricePerHour": 1100,
+  "educations": [
+    {
+      "schoolName": "�stanbul �niversitesi Cerrahpa�a T�p Fak�ltesi",
+      "degree": "T�p Doktoru",
+      "year": "2009-2015"
+    },
+    {
+      "schoolName": "Dokuz Eyl�l �niversitesi",
+      "degree": "�ocuk Sa�l��� ve Hastal�klar� Uzmanl���",
+      "year": "2016-2020"
+    }
+  ],
+  "experiences": [
+    {
+      "clinicName": "Bah�elievler Medical Park",
+      "yearRange": "2020-2023"
+    },
+    {
+      "clinicName": "Liv Hospital",
+      "yearRange": "2023-2026"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Y�l�n Ba�ar�l� Pediatri Uzman�",
+      "year": "2024",
+      "description": "�ocuk sa�l��� alan�ndaki ba�ar�l� �al��malar� nedeniyle verilmi�tir."
+    }
+  ],
+  "locations": [
+    {
+      "clinicName": "Liv Hospital Vadistanbul",
+      "address": "Ayaza�a Mahallesi Azerbaycan Caddesi No:3",
+      "city": "�stanbul",
+      "price": 1100,
+      "description": "�ocuk hastal�klar� ve geli�im takibi hizmeti sunulmaktad�r.",
+      "businessHours": "08:30 - 17:30"
+    }
+  ],
+  "services": [
+    "�ocuk Muayenesi",
+    "Yenido�an Takibi",
+    "A�� Takibi",
+    "�ocuk Enfeksiyon Tedavisi"
+  ],
+  "specializations": [
+    "Pediatri",
+    "Yenido�an Takibi",
+    "�ocuk Enfeksiyonlar�"
+  ]
+}
+
+--------------------------------------
+
+{
+  "name": "Burak",
+  "surname": "Arslan",
+  "branchId": "67f1a2b3c4d5e6f789012345",
+  "email": "burak.arslan@doccure.com",
+  "phone": "+905395556677",
+  "imageUrl": "https://randomuser.me/api/portraits/men/36.jpg",
+  "about": "N�roloji alan�nda 14 y�ll�k deneyime sahip olan Dr. Burak Arslan, migren, epilepsi ve sinir sistemi hastal�klar� �zerine uzmanla�m��t�r.",
+  "experienceYear": 14,
+  "pricePerHour": 1600,
+  "educations": [
+    {
+      "schoolName": "Marmara �niversitesi T�p Fak�ltesi",
+      "degree": "T�p Doktoru",
+      "year": "2004-2010"
+    },
+    {
+      "schoolName": "�stanbul �niversitesi",
+      "degree": "N�roloji Uzmanl���",
+      "year": "2011-2015"
+    }
+  ],
+  "experiences": [
+    {
+      "clinicName": "Ac�badem Hastanesi",
+      "yearRange": "2015-2019"
+    },
+    {
+      "clinicName": "Memorial �i�li Hastanesi",
+      "yearRange": "2019-2026"
+    }
+  ],
+  "awards": [
+    {
+      "title": "N�roloji Bilim �d�l�",
+      "year": "2023",
+      "description": "Sinir sistemi hastal�klar� �zerine yapt��� akademik �al��malar nedeniyle verilmi�tir."
+    }
+  ],
+  "locations": [
+    {
+      "clinicName": "Memorial �i�li Hastanesi",
+      "address": "Piyalepa�a Bulvar� No:4",
+      "city": "�stanbul",
+      "price": 1600,
+      "description": "Modern n�roloji tan� ve tedavi hizmetleri sunulmaktad�r.",
+      "businessHours": "09:00 - 18:30"
+    }
+  ],
+  "services": [
+    "N�roloji Muayenesi",
+    "Migren Tedavisi",
+    "EEG",
+    "Sinir Sistemi De�erlendirmesi"
+  ],
+  "specializations": [
+    "N�roloji",
+    "Migren",
+    "Epilepsi"
+  ]
+}
+
+-------------------------------------------------------------
+
+
+{
+  "name": "Zeynep",
+  "surname": "Kurt",
+  "branchId": "67f1a2b3c4d5e6f789012345",
+  "email": "zeynep.kurt@doccure.com",
+  "phone": "+905426667788",
+  "imageUrl": "https://randomuser.me/api/portraits/women/44.jpg",
+  "about": "Kad�n hastal�klar� ve do�um alan�nda 11 y�ll�k deneyime sahip olan Dr. Zeynep Kurt, gebelik takibi, do�um s�re�leri ve kad�n sa�l��� �zerine uzmanla�m��t�r.",
+  "experienceYear": 11,
+  "pricePerHour": 1450,
+  "educations": [
+    {
+      "schoolName": "Ege �niversitesi T�p Fak�ltesi",
+      "degree": "T�p Doktoru",
+      "year": "2006-2012"
+    },
+    {
+      "schoolName": "Uluda� �niversitesi",
+      "degree": "Kad�n Hastal�klar� ve Do�um Uzmanl���",
+      "year": "2013-2017"
+    }
+  ],
+  "experiences": [
+    {
+      "clinicName": "Medical Park Hastanesi",
+      "yearRange": "2017-2021"
+    },
+    {
+      "clinicName": "Ac�badem Altunizade Hastanesi",
+      "yearRange": "2021-2026"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Kad�n Sa�l��� Ba�ar� �d�l�",
+      "year": "2024",
+      "description": "Kad�n sa�l��� alan�ndaki ba�ar�l� �al��malar� nedeniyle verilmi�tir."
+    }
+  ],
+  "locations": [
+    {
+      "clinicName": "Ac�badem Altunizade Hastanesi",
+      "address": "Altunizade Mahallesi Yurtcan Sokak No:1",
+      "city": "�stanbul",
+      "price": 1450,
+      "description": "Gebelik takibi ve kad�n sa�l��� hizmetleri sunulmaktad�r.",
+      "businessHours": "08:00 - 17:00"
+    }
+  ],
+  "services": [
+    "Kad�n Do�um Muayenesi",
+    "Gebelik Takibi",
+    "Ultrason",
+    "Do�um Dan��manl���"
+  ],
+  "specializations": [
+    "Kad�n Hastal�klar�",
+    "Gebelik Takibi",
+    "Do�um"
+  ]
+}
+
+--------------------------------------------------------
+
+{
+  "name": "Emre",
+  "surname": "Ayd�n",
+  "branchId": "67f1a2b3c4d5e6f789012345",
+  "email": "emre.aydin@doccure.com",
+  "phone": "+905307771122",
+  "imageUrl": "https://randomuser.me/api/portraits/men/52.jpg",
+  "about": "G�z hastal�klar� alan�nda 13 y�ll�k deneyime sahip olan Dr. Emre Ayd�n, lazer g�z ameliyatlar�, katarakt tedavisi ve retina hastal�klar� �zerine uzmanla�m��t�r.",
+  "experienceYear": 13,
+  "pricePerHour": 1700,
+  "educations": [
+    {
+      "schoolName": "�stanbul �niversitesi �stanbul T�p Fak�ltesi",
+      "degree": "T�p Doktoru",
+      "year": "2005-2011"
+    },
+    {
+      "schoolName": "Ankara �niversitesi",
+      "degree": "G�z Hastal�klar� Uzmanl���",
+      "year": "2012-2016"
+    }
+  ],
+  "experiences": [
+    {
+      "clinicName": "D�nya G�z Hastanesi",
+      "yearRange": "2016-2020"
+    },
+    {
+      "clinicName": "Ac�badem Maslak Hastanesi",
+      "yearRange": "2020-2026"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Ba�ar�l� G�z Cerrah� �d�l�",
+      "year": "2023",
+      "description": "Lazer g�z ameliyatlar�ndaki ba�ar�l� operasyonlar� nedeniyle verilmi�tir."
+    }
+  ],
+  "locations": [
+    {
+      "clinicName": "Ac�badem Maslak Hastanesi",
+      "address": "B�y�kdere Caddesi No:40",
+      "city": "�stanbul",
+      "price": 1700,
+      "description": "G�z sa�l��� ve lazer tedavi hizmetleri sunulmaktad�r.",
+      "businessHours": "09:00 - 19:00"
+    }
+  ],
+  "services": [
+    "G�z Muayenesi",
+    "Lazer G�z Ameliyat�",
+    "Katarakt Tedavisi",
+    "Retina Kontrol�"
+  ],
+  "specializations": [
+    "G�z Hastal�klar�",
+    "Lazer Cerrahisi",
+    "Retina Hastal�klar�"
+  ]
+}
+
+
+-------------------------------------------------------------
+
+{
+  "name": "Selin",
+  "surname": "�zt�rk",
+  "branchId": "67f1a2b3c4d5e6f789012345",
+  "email": "selin.ozturk@doccure.com",
+  "phone": "+905367889900",
+  "imageUrl": "https://randomuser.me/api/portraits/women/65.jpg",
+  "about": "Psikiyatri alan�nda 9 y�ll�k deneyime sahip olan Dr. Selin �zt�rk, anksiyete bozukluklar�, depresyon ve stres y�netimi �zerine uzmanla�m��t�r.",
+  "experienceYear": 9,
+  "pricePerHour": 1400,
+  "educations": [
+    {
+      "schoolName": "Ba�kent �niversitesi T�p Fak�ltesi",
+      "degree": "T�p Doktoru",
+      "year": "2008-2014"
+    },
+    {
+      "schoolName": "�stanbul Medipol �niversitesi",
+      "degree": "Psikiyatri Uzmanl���",
+      "year": "2015-2019"
+    }
+  ],
+  "experiences": [
+    {
+      "clinicName": "NP �stanbul Beyin Hastanesi",
+      "yearRange": "2019-2022"
+    },
+    {
+      "clinicName": "Medical Park G�ztepe",
+      "yearRange": "2022-2026"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Ruh Sa�l��� Akademik Ba�ar� �d�l�",
+      "year": "2024",
+      "description": "Psikiyatri alan�ndaki bilimsel �al��malar� nedeniyle verilmi�tir."
+    }
+  ],
+  "locations": [
+    {
+      "clinicName": "Medical Park G�ztepe",
+      "address": "Merdivenk�y Mahallesi �ahika Sokak No:32",
+      "city": "�stanbul",
+      "price": 1400,
+      "description": "Yeti�kin psikiyatrisi ve terapi hizmetleri sunulmaktad�r.",
+      "businessHours": "10:00 - 18:00"
+    }
+  ],
+  "services": [
+    "Psikiyatri Muayenesi",
+    "Anksiyete Tedavisi",
+    "Depresyon Tedavisi",
+    "Stres Y�netimi"
+  ],
+  "specializations": [
+    "Psikiyatri",
+    "Anksiyete Bozukluklar�",
+    "Depresyon"
+  ]
+}
+
+----------------------------------------------
+
+{
+  "name": "Can",
+  "surname": "Tekin",
+  "branchId": "67f1a2b3c4d5e6f789012345",
+  "email": "can.tekin@doccure.com",
+  "phone": "+905355443322",
+  "imageUrl": "https://randomuser.me/api/portraits/men/61.jpg",
+  "about": "Di� hekimli�i alan�nda 7 y�ll�k deneyime sahip olan Dr. Can Tekin, implant tedavisi, estetik di� hekimli�i ve kanal tedavileri �zerine uzmanla�m��t�r.",
+  "experienceYear": 7,
+  "pricePerHour": 1250,
+  "educations": [
+    {
+      "schoolName": "Marmara �niversitesi Di� Hekimli�i Fak�ltesi",
+      "degree": "Di� Hekimi",
+      "year": "2010-2015"
+    },
+    {
+      "schoolName": "Yeditepe �niversitesi",
+      "degree": "Estetik Di� Hekimli�i Sertifika Program�",
+      "year": "2016-2017"
+    }
+  ],
+  "experiences": [
+    {
+      "clinicName": "DentGroup Klinik",
+      "yearRange": "2017-2021"
+    },
+    {
+      "clinicName": "Smile Center",
+      "yearRange": "2021-2026"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Estetik G�l�� Tasar�m� Ba�ar� �d�l�",
+      "year": "2023",
+      "description": "Estetik di� hekimli�i alan�ndaki ba�ar�l� uygulamalar� nedeniyle verilmi�tir."
+    }
+  ],
+  "locations": [
+    {
+      "clinicName": "Smile Center",
+      "address": "Ba�dat Caddesi No:210",
+      "city": "�stanbul",
+      "price": 1250,
+      "description": "�mplant ve estetik di� tedavileri hizmeti sunulmaktad�r.",
+      "businessHours": "09:30 - 19:00"
+    }
+  ],
+  "services": [
+    "Di� Muayenesi",
+    "�mplant Tedavisi",
+    "Kanal Tedavisi",
+    "Di� Beyazlatma"
+  ],
+  "specializations": [
+    "Di� Hekimli�i",
+    "�mplantoloji",
+    "Estetik Di� Hekimli�i"
+  ]
+}
+
+----------------------------------------------------
+
+{
+  "name": "Merve",
+  "surname": "�ahin",
+  "branchId": "67f1a2b3c4d5e6f789012345",
+  "email": "merve.sahin@doccure.com",
+  "phone": "+905322114455",
+  "imageUrl": "https://randomuser.me/api/portraits/women/51.jpg",
+  "about": "Fizik tedavi ve rehabilitasyon alan�nda 10 y�ll�k deneyime sahip olan Dr. Merve �ahin, bel-boyun f�t���, spor sakatl�klar� ve kas-iskelet sistemi rehabilitasyonu �zerine uzmanla�m��t�r.",
+  "experienceYear": 10,
+  "pricePerHour": 1350,
+  "educations": [
+    {
+      "schoolName": "Karadeniz Teknik �niversitesi T�p Fak�ltesi",
+      "degree": "T�p Doktoru",
+      "year": "2007-2013"
+    },
+    {
+      "schoolName": "�stanbul �niversitesi",
+      "degree": "Fizik Tedavi ve Rehabilitasyon Uzmanl���",
+      "year": "2014-2018"
+    }
+  ],
+  "experiences": [
+    {
+      "clinicName": "Romatem Fizik Tedavi Merkezi",
+      "yearRange": "2018-2022"
+    },
+    {
+      "clinicName": "Medicana International",
+      "yearRange": "2022-2026"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Rehabilitasyon Alan�nda Ba�ar� �d�l�",
+      "year": "2024",
+      "description": "Kas-iskelet sistemi rehabilitasyonu alan�ndaki ba�ar�l� �al��malar� nedeniyle verilmi�tir."
+    }
+  ],
+  "locations": [
+    {
+      "clinicName": "Medicana International",
+      "address": "Beylikd�z� E-5 Yan Yol No:35",
+      "city": "�stanbul",
+      "price": 1350,
+      "description": "Fizik tedavi ve rehabilitasyon hizmetleri sunulmaktad�r.",
+      "businessHours": "08:30 - 18:30"
+    }
+  ],
+  "services": [
+    "Fizik Tedavi Muayenesi",
+    "Bel ve Boyun F�t��� Tedavisi",
+    "Spor Rehabilitasyonu",
+    "Kas G��lendirme Programlar�"
+  ],
+  "specializations": [
+    "Fizik Tedavi",
+    "Rehabilitasyon",
+    "Spor Sakatl�klar�"
+  ]
+}
+
+-----------------------------------------------
+
+{
+  "name": "Onur",
+  "surname": "Karaca",
+  "branchId": "67f1a2b3c4d5e6f789012345",
+  "email": "onur.karaca@doccure.com",
+  "phone": "+905388776655",
+  "imageUrl": "https://randomuser.me/api/portraits/men/74.jpg",
+  "about": "Kulak burun bo�az alan�nda 12 y�ll�k deneyime sahip olan Dr. Onur Karaca, sin�zit, geniz eti problemleri ve i�itme bozukluklar� �zerine uzmanla�m��t�r.",
+  "experienceYear": 12,
+  "pricePerHour": 1500,
+  "educations": [
+    {
+      "schoolName": "Akdeniz �niversitesi T�p Fak�ltesi",
+      "degree": "T�p Doktoru",
+      "year": "2005-2011"
+    },
+    {
+      "schoolName": "Ege �niversitesi",
+      "degree": "Kulak Burun Bo�az Uzmanl���",
+      "year": "2012-2016"
+    }
+  ],
+  "experiences": [
+    {
+      "clinicName": "�zel Anadolu Hastanesi",
+      "yearRange": "2016-2020"
+    },
+    {
+      "clinicName": "Ac�badem Kozyata�� Hastanesi",
+      "yearRange": "2020-2026"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Ba�ar�l� KBB Uzman� �d�l�",
+      "year": "2023",
+      "description": "Kulak burun bo�az cerrahisi alan�ndaki ba�ar�l� operasyonlar� nedeniyle verilmi�tir."
+    }
+  ],
+  "locations": [
+    {
+      "clinicName": "Ac�badem Kozyata�� Hastanesi",
+      "address": "�n�n� Caddesi No:18",
+      "city": "�stanbul",
+      "price": 1500,
+      "description": "KBB muayene ve cerrahi hizmetleri sunulmaktad�r.",
+      "businessHours": "09:00 - 18:00"
+    }
+  ],
+  "services": [
+    "KBB Muayenesi",
+    "Sin�zit Tedavisi",
+    "��itme Testi",
+    "Geniz Eti Tedavisi"
+  ],
+  "specializations": [
+    "Kulak Burun Bo�az",
+    "Sin�zit",
+    "��itme Bozukluklar�"
+  ]
+}
+
+---------------------------------------------
+
+
+
+
+
+
